@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #ccc;
+}
+main{
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    position: relative;
+}
+h1{
+    font-family: 'Seaweed Script', cursive;
+}
+.mainText{
+    font-family: 'Nanum Brush Script', cursive;
+    font-size: 1.25em;
+}
+#p1{
+
+}
+#p2{
+
+}
+#p3{
+
+}
+#p4{
+    
+}
+#p5{
+    
+}
+#p6{
+    
+}
+.imageBox{
+    width: 37%;
+    border: solid #ddd 2px;
+    box-shadow: 5px 5px 3px #999;
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+}
+img{
+    width: 100%;
+    height: 90%;
+    margin: auto;
+}
+#shipBox{
+    float: right;
+    transform: rotate(5deg);
+}
+#treasureBox{
+    float: left;
+    transform: rotate(-5deg);
+}
+.captionText{
+    font-family: 'Nanum Brush Script', cursive;
+    font-size: 1.25em;
+}
+#shipIMG{
+
+}
+#treasureIMG{
+
+}
